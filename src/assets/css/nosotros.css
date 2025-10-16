@@ -1,0 +1,15 @@
+.card {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.card h4 {
+    font-weight: bold;
+    color: #333;
+}
+
+.card p {
+    color: #555;
+    line-height: 1.6;
+}
